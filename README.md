@@ -91,8 +91,3 @@
 <br/>
 
 
-
-------
-Credits: [alazarbeyeneazu](https://github.com/alazarbeyeneazu)
-
-Last edited on: 18/08/2021
