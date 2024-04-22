@@ -70,18 +70,6 @@
 
 <br/>
 
-#
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/smir45/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smir45#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
 
 
 <br/>
@@ -90,8 +78,8 @@
 
 <p align="center">
 <a href="https://github.com/smir45">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alazarbeyeneazu&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alazarbeyeneazu&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
