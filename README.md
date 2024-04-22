@@ -26,9 +26,9 @@
 
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=alazarbeyeneazu" alt="alazarbeyeneazu" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/alazarbeyeneazu?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/alazarbeyeneazu?label=Stars" alt="Total Stars">
 </p>
 
 
@@ -77,7 +77,7 @@
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smir45">
+<a href="https://github.com/alazarbeyeneazu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alazarbeyeneazu&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alazarbeyeneazu&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
@@ -92,24 +92,7 @@
 
 
 
-
-### 📅 Isometric commit calendar
-
-The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
-
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-    
-  </td>
-</table>
-
-
 ------
-Credits: [smir45](https://github.com/smir45)
+Credits: [alazarbeyeneazu](https://github.com/alazarbeyeneazu)
 
 Last edited on: 18/08/2021
